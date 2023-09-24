@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:27807f9a48b41c09130ba719dfbfb957a04c7ec10f69fa6a088437a1cd375cf3
-size 56
+deb https://nepvibes.github.io/external-apps/debian ./
