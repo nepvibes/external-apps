@@ -1,0 +1,2571 @@
+<!doctype html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<script type="text/javascript">
+var theplus_ajax_url = "https://www.gitkraken.com/wp-admin/admin-ajax.php";
+		var theplus_nonce = "5a1d379dfd";
+</script>
+
+<script>	    
+    function getQueryString() {
+        var fullString = document.URL.split('#')[0].split('?')[1];
+        if( fullString != undefined ) {
+            var stringObj = {};
+            if( fullString.indexOf('&') !== -1 ){
+                var querySplit = fullString.split('&');
+                for( var qspi = 0; qspi < querySplit.length; qspi++ ) {
+                    var subSplit = querySplit[qspi].split('=');
+                    stringObj[subSplit[0]] = subSplit[1];
+                }
+            } else {
+                var subSplit = fullString.split('=');
+                stringObj[subSplit[0]] = subSplit[1];
+            }
+            return stringObj;
+        }
+        return false;
+    }
+
+    
+    var urlParams = getQueryString(); 
+    var accountsite = decodeURIComponent(urlParams.accountsite); 
+    
+    if(accountsite == 'true'){ 
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NWXSFJM');
+    } else {
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-PDWLWX3');
+	}
+
+
+</script>
+<meta name="google-site-verification" content="2QeIC1D9I3ugGUp7KAxsn1dHgXphUj7n105iakDzARY" />
+
+
+<title>Thank You for Downloading GitKraken </title>
+<meta name="description" content="All core GitKraken Git productivity features are free when working with local &amp; public repos across multiple machines &amp; OSes. Make sure to create &amp; activate your GitKraken account. Visit gitkraken.com/learn/git for educational/training resources."/>
+<meta name="robots" content="nofollow, noindex"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Thank You for Downloading GitKraken " />
+<meta property="og:description" content="All core GitKraken Git productivity features are free when working with local &amp; public repos across multiple machines &amp; OSes. Make sure to create &amp; activate your GitKraken account. Visit gitkraken.com/learn/git for educational/training resources." />
+<meta property="og:url" content="https://www.gitkraken.com/download/linux-deb" />
+<meta property="og:site_name" content="GitKraken" />
+<meta property="article:publisher" content="https://www.facebook.com/GitKraken/" />
+<meta property="article:section" content="Download" />
+<meta property="og:updated_time" content="2023-08-11T23:00:21+00:00" />
+<meta property="og:image" content="https://www.gitkraken.com/wp-content/uploads/2021/11/GitKrakenClient-Hero-2048x1024px-v1-1024x512.png" />
+<meta property="og:image:secure_url" content="https://www.gitkraken.com/wp-content/uploads/2021/11/GitKrakenClient-Hero-2048x1024px-v1-1024x512.png" />
+<meta property="og:image:width" content="800" />
+<meta property="og:image:height" content="400" />
+<meta property="og:image:alt" content="Linux Deb" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Thank You for Downloading GitKraken " />
+<meta name="twitter:description" content="All core GitKraken Git productivity features are free when working with local &amp; public repos across multiple machines &amp; OSes. Make sure to create &amp; activate your GitKraken account. Visit gitkraken.com/learn/git for educational/training resources." />
+<meta name="twitter:site" content="@gitkraken" />
+<meta name="twitter:creator" content="@gitkraken" />
+<meta name="twitter:image" content="https://www.gitkraken.com/wp-content/uploads/2021/11/GitKrakenClient-Hero-2048x1024px-v1-1024x512.png" />
+
+
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.gitkraken.com/wp-includes/css/dist/block-library/style.min.css?ver=7fe76100ff95d73acbeb9dd226eb08b4' type='text/css' media='all' />
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<link rel='stylesheet' id='jet-engine-frontend-css' href='https://www.gitkraken.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=2.10.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='copy-the-code-css' href='https://www.gitkraken.com/wp-content/plugins/copy-the-code/assets/css/copy-the-code.css?ver=2.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='air-datepicker-css' href='https://www.gitkraken.com/wp-content/plugins/jet-smart-filters/assets/vendors/air-datepicker/air-datepicker.min.css?ver=2.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='a6027c37e-css' href='https://www.gitkraken.com/wp-content/uploads/essential-addons-elementor/a6027c37e.min.css?ver=1695555172' type='text/css' media='all' />
+<link rel='stylesheet' id='theplus-front-css-css' href='//www.gitkraken.com/wp-content/uploads/theplus-addons/theplus-post-1529.min.css?ver=1691794961' type='text/css' media='all' />
+<link rel='stylesheet' id='plus-icons-mind-css-css' href='//www.gitkraken.com/wp-content/plugins/theplus_elementor_addon/assets/css/extra/iconsmind.min.css?ver=5.0.8' type='text/css' media='all' />
+<link rel='stylesheet' id='plus-pre-loader-css-css' href='//www.gitkraken.com/wp-content/plugins/theplus_elementor_addon/assets/css/main/pre-loader/plus-pre-loader.min.css?ver=5.0.8' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://www.gitkraken.com/wp-content/themes/hello-elementor/style.min.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://www.gitkraken.com/wp-content/themes/hello-elementor/theme.min.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://www.gitkraken.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.18.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://www.gitkraken.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.12.2' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://www.gitkraken.com/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css' href='https://www.gitkraken.com/wp-content/uploads/elementor/css/post-7.css?ver=1687808821' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://www.gitkraken.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.12.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://www.gitkraken.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=5.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://www.gitkraken.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=5.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1529-css' href='https://www.gitkraken.com/wp-content/uploads/elementor/css/post-1529.css?ver=1691794961' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-12101-css' href='https://www.gitkraken.com/wp-content/uploads/elementor/css/post-12101.css?ver=1693229631' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-5898-css' href='https://www.gitkraken.com/wp-content/uploads/elementor/css/post-5898.css?ver=1691183889' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-6497-css' href='https://www.gitkraken.com/wp-content/uploads/elementor/css/post-6497.css?ver=1687808821' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://www.gitkraken.com/wp-content/plugins/tablepress/css/build/default.css?ver=2.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-official-css' href='https://use.fontawesome.com/releases/v5.15.3/css/all.css' type='text/css' media='all' integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous" />
+<link rel='stylesheet' id='font-awesome-official-v4shim-css' href='https://use.fontawesome.com/releases/v5.15.3/css/v4-shims.css' type='text/css' media='all' integrity="sha384-C2B+KlPW+WkR0Ld9loR1x3cXp7asA0iGVodhCoJ4hwrWm/d9qKS59BGisq+2Y0/D" crossorigin="anonymous" />
+<style id='font-awesome-official-v4shim-inline-css' type='text/css'>
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-brands-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-brands-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-brands-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-brands-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-brands-400.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-solid-900.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-solid-900.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-solid-900.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-solid-900.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-solid-900.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-regular-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-regular-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-regular-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-regular-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-regular-400.svg#fontawesome") format("svg");
+unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+}
+</style>
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Lato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CUbuntu+Mono%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=7fe76100ff95d73acbeb9dd226eb08b4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://www.gitkraken.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://www.gitkraken.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://www.gitkraken.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script   type='text/javascript' src='https://www.gitkraken.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-content/plugins/jet-smart-filters/assets/vendors/air-datepicker/air-datepicker.min.js?ver=2.2.3' id='air-datepicker-js'></script>
+<script   type='text/javascript' src='//www.gitkraken.com/wp-content/plugins/theplus_elementor_addon/assets/js/main/pre-loader/plus-pre-loader-extra-transition.min.js?ver=5.0.8' id='plus-pre-loader-js2-js'></script>
+<script   type='text/javascript' src='//www.gitkraken.com/wp-content/plugins/theplus_elementor_addon/assets/js/main/pre-loader/plus-pre-loader.min.js?ver=5.0.8' id='plus-pre-loader-js-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=5.0.9' id='font-awesome-4-shim-js'></script>
+<script type='text/javascript' id='ajax-country-check-js-extra'>
+/* <![CDATA[ */
+var AIOWPSCB = {"ajaxurl":"https:\/\/www.gitkraken.com\/wp-admin\/admin-ajax.php","redirect_url":"http:\/\/127.0.0.1","security":"73bded6dd8"};
+/* ]]> */
+</script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-content/plugins/aiowps-country-blocking/js/aiowps-cb.js?ver=3.0.6' id='ajax-country-check-js'></script>
+<link rel="alternate" type="application/json+oembed" href="https://www.gitkraken.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gitkraken.com%2Fdownload%2Flinux-deb" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.gitkraken.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gitkraken.com%2Fdownload%2Flinux-deb&#038;format=xml" />
+
+<style type="text/css"> html { visibility:hidden; } </style>
+            			<meta name="theme-color" content="#0D1017">
+			<link rel="icon" href="https://www.gitkraken.com/wp-content/uploads/2021/03/android-chrome-144x144-1.png" sizes="32x32" />
+<link rel="icon" href="https://www.gitkraken.com/wp-content/uploads/2021/03/android-chrome-144x144-1.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.gitkraken.com/wp-content/uploads/2021/03/android-chrome-144x144-1.png" />
+<meta name="msapplication-TileImage" content="https://www.gitkraken.com/wp-content/uploads/2021/03/android-chrome-144x144-1.png" />
+		<style type="text/css" id="wp-custom-css">
+			body{
+	background-color: #141422
+}
+
+
+.nav-button a{
+    color: #FBFFD2 !important;
+    background-color: transparent !important;
+}
+
+
+li.menu-item-object-plus-mega-menu{
+	margin-top: 0px;
+}
+
+.elementor-sub-item .fas{
+	min-width: 15px;
+}
+
+.elementor-sub-item .far{
+	min-width: 15px;
+}
+
+.elementor-location-header > .elementor-section-wrap {
+	overflow: hidden
+}
+
+.elementor-sub-item .fas{
+	min-width: 15px;
+}
+
+.nav-gitkon{
+	background-color: #394153;
+	border-radius: 73px;
+}
+
+.nav-gitkon a{
+	color: #FFFCC3 !important;
+}
+
+.post p a {
+	font-size: inherit !important;
+	font-family: "Lato", Sans-serif !important;
+	color: #FFFCC3 !important;
+	text-transform: none !important;
+}
+
+.post li a {
+	font-size: inherit !important;
+	font-family: "Lato", Sans-serif !important;
+	color: #FFFCC3 !important;
+	text-transform: none !important;
+}
+
+.page-content p a {
+	font-size: inherit !important;
+	font-family: "Lato", Sans-serif !important;
+	color: #FFFCC3 !important;
+	text-transform: none !important;
+}
+
+.td-content a:not(.button) {
+  font-size: inherit !important;
+	font-family: "Lato", Sans-serif !important;
+	color: #FFFCC3 !important;
+	text-transform: none !important;
+
+}
+
+.td-content-wrapper a:not(.button) {
+  font-size: inherit !important;
+	font-family: "Lato", Sans-serif !important;
+	color: #FFFCC3 !important;
+	text-transform: none !important;
+
+}
+
+.leadinModal button.leadin-button{
+	color: #141422 !important;
+	font-weight: bold !important;
+}
+
+.leadinModal .leadin-button-wrapper a{
+	color: #141422 !important;
+  font-weight: bold !important;
+}
+
+.leadinModal .thank-you-button button{
+	color: #D8C139;
+}
+
+.leadinModal-3871670 button.leadin-button-secondary{
+	background-color: #D8C13A !important;
+}
+
+.leadinModal-3871670 button.leadin-button-primary{
+	background-color: #D8C139 !important;
+}
+
+
+.leadinModal-3871670 a.leadin-button-primary{
+	background-color: #D8C139 !important;
+}
+
+.leadinModal-3871670 .continue-url-wrapper a:hover{
+	background-color: #fff !important;
+	color: #000 !important;
+}
+
+
+.leadinModal-3871670 button.leadin-button-primary:hover{
+	background-color: #D8C139 !important;
+}
+
+.leadinModal-4795574 .leadin-button.leadin-button-secondary{
+	background-color: #FBFFD2 !important;
+	font-weight: 600 !important;
+	font-family: "input-mono", Sans-serif;
+}
+
+.leadin-content-body {
+	background-color: #262633 !important;
+}
+
+.leadinModal-close:hover{
+	background-color: transparent !important;
+}
+
+.leadinModal input:not([type=submit]), .hs-form select, .hs-form textarea{
+	background-color: #0f0f19;
+  border: 1px solid #393945;
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+	color: #d0d0d2;
+}
+
+
+.hs-form .hs-error-msgs a{
+	display: none;
+}
+.hs-form .inputs-list{
+	list-style: none;
+	padding-left: 0px;
+}
+
+.elementor-location-header > .elementor-section-wrap {
+	overflow: hidden
+}
+#menu-item-2024 .dropdown-menu{
+	width: 625px;
+	margin-top: 0px;
+	padding: 0px !important;
+}
+
+#menu-item-5384 .dropdown-menu{
+	width: 625px;
+	margin-top: 0px;
+	padding: 0px !important;
+}
+
+#menu-item-5122 .dropdown-menu{
+	width: 625px;
+	margin-top: 0px;
+	padding: 0px !important;
+}
+
+#menu-item-2455 .dropdown-menu{
+	width: 625px;
+	margin-top: 0px;
+	padding: 0px !important;
+}
+
+#menu-item-2418 .dropdown-menu{
+	width: 625px;
+	margin-top: 0px;
+	padding: 0px !important;
+}
+#menu-item-2443 .dropdown-menu{
+	width: 625px;
+	margin-top: 0px;
+	padding: 0px !important;
+}
+
+#menu-item-4822 .dropdown-menu{
+	width: 625px;
+	margin-top: 0px;
+	padding: 0px !important;
+}
+
+hr{
+	border: 0;
+	border-bottom: 3px solid #262633;
+	border-bottom-width: 3px
+}
+
+#new-features-page-two h1 {
+  line-height: 2.5rem;
+}
+#new-features-page-two .fa-play-circle {
+  font-size: 4rem;
+  margin-top: 0.5em;
+  height: 60px;
+  stroke: #fff;
+  fill: #fff;
+}
+#new-features-page-two .fa-play-circle:hover {
+  fill: #d8c13a;
+  stroke: #d8c13a;
+  cursor: pointer;
+}
+#new-features-page-two .video-banner,
+#new-features-page-two .video-responsive {
+  position: relative;
+  padding-bottom: 54.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+  top: 0;
+}
+#new-features-page-two .video-banner iframe,
+#new-features-page-two .video-responsive iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+#new-features-page-two .video-banner {
+  display: none;
+  z-index: 2001;
+}
+#new-features-page-two .video-banner .close-video {
+  position: absolute;
+  right: 1rem;
+  top: 3rem;
+  font-size: 4rem;
+  z-index: 2002;
+}
+#new-features-page-two .video-banner .close-video:hover {
+  cursor: pointer;
+  color: #d8c13a;
+}
+#new-features-page-two #ytplayer {
+  height: 100%;
+  width: 100%;
+}
+#new-features-page-two .flex-grid {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  display: -ms-flexbox;
+  -webkit-box-orient: horizontal;
+  -moz-box-orient: horizontal;
+  -o-box-orient: horizontal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: distribute;
+  -moz-box-pack: distribute;
+  -o-box-pack: distribute;
+  -ms-flex-pack: distribute;
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+  -ms-flex-align: center;
+}
+@media only screen and (max-width: 939px) {
+  #new-features-page-two .flex-grid {
+    -webkit-box-lines: multiple;
+    -moz-box-lines: multiple;
+    -o-box-lines: multiple;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+}
+#new-features-page-two .flex-grid .flex-item {
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -o-box-flex: 1;
+  box-flex: 1;
+  -webkit-flex: 1 100%;
+  -ms-flex: 1 100%;
+  flex: 1 100%;
+  -ms-flex: 1 10%;
+  margin: auto;
+}
+@media only screen and (max-width: 939px) {
+  #new-features-page-two .flex-grid .flex-item.psm {
+    padding: 0.5rem;
+  }
+}
+#new-features-page-two .flex-grid .flex-item.video-responsive {
+  height: 675px;
+  -webkit-box-flex: 3;
+  -moz-box-flex: 3;
+  -o-box-flex: 3;
+  box-flex: 3;
+  -webkit-flex: 3 0 70%;
+  -ms-flex: 3 0 70%;
+  flex: 3 0 70%;
+  -ms-flex: 3 0 40%;
+}
+@media only screen and (max-width: 939px) {
+  #new-features-page-two .flex-grid .flex-item.video-responsive {
+    height: 200px;
+  }
+}
+#new-features-page-two .flex-grid .flex-item .feature-image {
+  min-height: 150px;
+}
+#new-features-page-two .flex-grid .flex-item .feature-image img {
+  max-height: 150px;
+}
+@media only screen and (max-width: 939px) {
+  #new-features-page-two .flex-grid .flex-item .feature-image img {
+    min-height: 0px;
+  }
+}
+#new-features-page-two .flex-grid .flex-item .feature-image.small-icon {
+  min-height: 75px;
+}
+#new-features-page-two .flex-grid .flex-item .feature-image.small-icon img {
+  max-height: 75px;
+}
+@media only screen and (max-width: 939px) {
+  #new-features-page-two .flex-grid .flex-item .feature-image.small-icon img {
+    margin-bottom: -10px;
+  }
+}
+@media only screen and (max-width: 939px) {
+  #new-features-page-two .flex-grid .flex-item .feature-image.small-icon {
+    min-height: 0px;
+    margin-bottom: -10px;
+  }
+}
+#new-features-page-two .flex-grid .flex-item .feature-image.pro img {
+  max-height: 100px;
+}
+#new-features-page-two .flex-grid .flex-item .feature-image.pro:not(.square-icon) img {
+  margin-top: 1rem;
+}
+#new-features-page-two .flex-grid .flex-item .feature-image.pro.square-icon img {
+  max-height: 150px;
+}
+#new-features-page-two .flex-grid .flex-item .feature-description {
+  min-height: 140px;
+}
+#new-features-page-two .flex-grid .flex-item .feature-description.short {
+  min-height: 70px;
+}
+#new-features-page-two .integrations .flex-item {
+  padding: 0;
+  position: relative;
+  height: 150px;
+}
+#new-features-page-two .integrations .integration-text {
+  bottom: 0;
+}
+#new-features-page-two .integrations sup {
+  position: absolute;
+  top: 0.7rem;
+  width: auto;
+  right: 45px;
+}
+@media only screen and (max-width: 939px) {
+  #new-features-page-two .integrations sup {
+    right: 0px;
+    left: 0px;
+  }
+}
+#new-features-page-two .integrations .bitbucket-logo p {
+  margin-bottom: 11px;
+  margin-top: 41px;
+}
+#new-features-page-two .integrations .bitbucket-logo p img {
+  width: 44px;
+}
+#new-features-page-two .integrations p {
+  color: #f9efc1;
+}
+#new-features-page-two .integrations p .fa,
+#new-features-page-two .integrations p .fab {
+  color: #c5eae7;
+  font-size: 3rem;
+  padding: 0.5rem;
+}
+@media only screen and (max-width: 939px) {
+  #new-features-page-two .pro-features a {
+    line-height: 1.8rem;
+  }
+}
+#new-features-page-two .button.button--basic {
+  border-color: #d8c13a;
+  background-color: #d8c13a;
+  color: #000;
+  font-size: 1rem;
+}
+#new-features-page-two .button.button--basic:visited,
+#new-features-page-two .button.button--basic:hover,
+#new-features-page-two .button.button--basic:focus,
+#new-features-page-two .button.button--basic:active {
+  border-color: #d8c13a;
+  background-color: #d8c13a;
+  color: #000;
+}
+#new-features-page-two a.all-downloads {
+  color: #d8c13a;
+}
+#new-features-page-two a.all-downloads:visited,
+#new-features-page-two a.all-downloads:hover,
+#new-features-page-two a.all-downloads:focus,
+#new-features-page-two a.all-downloads:active {
+  color: #d8c13a;
+}
+
+.button,
+button {
+  display: inline-block;
+  font-size: 0.942666666666667rem;
+  line-height: 1;
+  padding: 0.7em 1.15em;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  white-space: nowrap;
+  border-radius: 73px !important;
+  cursor: pointer;
+  border-width: 2px;
+  border-style: solid;
+	background-clip: padding-box;
+	transition-duration: 0.4s;
+	transition-timing-function: ease;
+	transition-property: color, border-color, background-color;
+}
+
+.button.os{
+	font-size: 14px;
+	color: #141422 !important;
+	font-weight: 600;
+}
+
+.dl-container .button{
+		color: #141422 !important;
+		background-color: #FBFFD2 !important;
+}
+
+.dl-container, .dl-container-cli{
+	text-align: center;
+}
+
+.dl-container .button--linux, .dl-container-cli .button--linux{
+	margin: 10px;
+	color: #141422!important;
+}
+
+.dl-container .button--mac, .dl-container-cli .button--mac{
+	margin: 3px 10px;
+	min-width: 200px;
+	color: #141422 !important;
+}
+
+.button.os:hover{
+	color: #141422 !important;
+	background-color: #FEFFF0 !important;
+}
+
+
+.dl-container .os-icon, .dl-container-cli .os-icon{
+	margin-right: 10px;
+}
+
+.dl-container .all-downloads, .dl-container-cli .all-downloads{
+	font-size: 12px;
+	margin-top: 0px;
+	font-weight: 400;
+	color: #FBFFD2;
+}
+
+.button--basic {
+  color: #FBFFD2;
+	background-color: rgba(251, 255, 210, 0.15);
+  border-color: transparent;
+}
+
+.button.button--basic:visited, .button.button--basic:hover,
+.button.button--basic:focus,
+.button.button--basic:active {
+  border-color: transparent;
+  color: #FBFFD2;
+	background-color: rgba(251, 255, 210, 0.15);
+}
+
+.learn-toc{
+	background-color: #262633;
+	border-radius: 5px;
+	padding: 20px 40px 30px;
+}
+
+.learn-toc a{
+	font-family: 'Lato';
+	text-transform: none;
+	text-decoration-line: underline;
+	font-size: 17px;
+	line-height: 20px;
+
+}
+
+.mid-cta-wrap{
+		background: url('/wp-content/uploads/2021/04/cta-banner-1.png');
+		background-position: center;
+		background-size: cover;
+		text-align: center;
+		margin-top: 40px;
+		margin-bottom: 40px;
+}
+
+.mid-cta-content{
+	padding: 40px;
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+.mid-cta-content h3{
+	font-weight: bold;
+	color: #f9efc1;
+}
+
+.mid-cta-content h4{
+	font-weight: bold;
+	color: #f9efc1;
+}
+
+.tutorial-section{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+@media only screen and (max-width: 939px) {
+  .tutorial-section {
+    padding-left: 20px;
+		padding-right: 20px
+  }
+}
+
+.tutorial-section.advanced{
+	margin-bottom: -57px;
+}
+.tutorial-section hr{
+	background-color: #000;
+	border-bottom: 3px solid #000;
+	opacity: 0.3
+}
+
+.tutorial-section .green-border{
+	border: 2px solid #2b9890;
+	margin: 0px;
+}
+
+.tutorial-section .blue-border{
+	border: 2px solid #256fa0;
+	margin: 0px;
+}
+
+.tutorial-section .red-border{
+	border: 2px solid #9a2c51;
+	margin: 0px;
+}
+
+.tutorial-section .green-border img, .tutorial-section .blue-border img, .tutorial-section .red-border img{
+	opacity: 0.4;
+	margin-bottom: -6px;
+}
+
+.tutorial-section .wp-block-group__inner-container{
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.tut-level-menu{
+	background-color: #1d1d2d;
+	margin-bottom: 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+pre{
+	background-color: #262633;
+	overflow: auto;
+	padding: 1em 1.5em;
+	word-wrap: normal;
+	line-height:1.7rem;
+	margin: 1.7rem 0;
+}
+
+.button-nav{
+    background-color: #D8C13A;
+  	font-weight: bold;
+  	border-radius: 5px;
+}
+
+.button-nav-timelines{
+    background-color: #fd0d5c;
+  	font-weight: bold;
+  	border-radius: 5px;
+}
+
+.button-nav-boards{
+    background-color: #ff881d;
+  	font-weight: bold;
+  	border-radius: 5px;
+		border: none;
+	  color: #000;
+}
+
+.plus-navigation-menu .navbar-nav>li.button-nav>a{
+	 color: #141422 !important;
+}
+.button-nav a:hover{
+	background-color: #D8C13A;
+  color: #141422;
+}
+
+.plus-navigation-menu .navbar-nav>li.button-nav-timelines>a{
+	 color: #141422 !important;
+}
+.button-nav-timelines a:hover{
+	background-color: #fd0d5c;
+  color: #141422;
+}
+.plus-navigation-menu .navbar-nav>li.button-nav-boards>a{
+	 color: #141422 !important;
+}
+.button-nav-boards a:hover{
+	background-color: #ff881d;
+  color: #141422;
+}
+
+.video-responsive{
+		position: relative;
+		padding-bottom: 54.25%;
+		padding-top: 25px;
+		height: 0;
+		top: 0;
+}
+
+.video-responsive .wp-block-embed__wrapper{
+		position: relative;
+		padding-bottom: 54.25%;
+		padding-top: 25px;
+		height: 0;
+		top: 0;
+}
+
+.video-responsive iframe{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+}
+
+.footer-learn-git-kit {
+  background-image: -webkit-linear-gradient(150deg, rgba(240,75,67,0.3), rgba(65,98,173,0.3));
+  background-image: -moz-linear-gradient(150deg, rgba(240,75,67,0.3), rgba(65,98,173,0.3));
+  background-image: -o-linear-gradient(150deg, rgba(240,75,67,0.3), rgba(65,98,173,0.3));
+  background-image: -ms-linear-gradient(150deg, rgba(240,75,67,0.3), rgba(65,98,173,0.3));
+  background-image: linear-gradient(-60deg, rgba(240,75,67,0.3), rgba(65,98,173,0.3));
+}
+.footer-learn-git-kit-content{
+		padding: 40px;
+		max-width: 900px;
+		margin: 0 auto;
+		text-align: center
+}
+
+.footer-learn-git-kit-content .narrow{
+		width: auto;
+		max-width: 600px;
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+}
+
+.footer-learn-git-kit-content .cream{
+		color: #f9efc1;
+		font-weight: bold;
+}
+.footer-learn-git-kit-content h3{
+	  margin-bottom: 0px;
+}
+.footer-learn-git-kit .hbspt-form, .mid-cta-wrap .hbspt-form {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+	margin-top: 10px;
+}
+.footer-learn-git-kit .hbspt-form .input, .mid-cta-wrap .hbspt-form .input {
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.footer-learn-git-kit .hbspt-form .hs-form-field, .mid-cta-wrap .hbspt-form .hs-form-field {
+  display: inline-block;
+}
+.footer-learn-git-kit .hbspt-form label, .mid-cta-wrap .hbspt-form label {
+  display: none;
+}
+.footer-learn-git-kit .hbspt-form .hs_submit.hs-submit, .mid-cta-wrap .hbspt-form .hs_submit.hs-submit {
+  display: inline-block;
+}
+.footer-learn-git-kit .flex-item {
+  padding: 0;
+}
+.footer-learn-git-kit .flex-item li {
+  font-size: 1rem;
+}
+.footer-learn-git-kit .flex-item .img-container img {
+  -webkit-transform: scale(1.7);
+  -moz-transform: scale(1.7);
+  -o-transform: scale(1.7);
+  -ms-transform: scale(1.7);
+  transform: scale(1.7);
+  position: relative;
+  z-index: 1;
+  padding-top: 10px;
+}
+@media only screen and (max-width: 939px) {
+  .footer-learn-git-kit .flex-item .img-container {
+    display: none;
+  }
+}
+.footer-learn-git-kit .flex-item li {
+  margin-top: 0.05rem;
+}
+.footer-learn-git-kit .button--learn-git-kit {
+  background-color: #f04b43;
+  border: 1px solid #c03828;
+  color: #efeec5;
+}
+.flex-grid{
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  display: -ms-flexbox;
+  -webkit-box-orient: horizontal;
+  -moz-box-orient: horizontal;
+  -o-box-orient: horizontal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: distribute;
+  -moz-box-pack: distribute;
+  -o-box-pack: distribute;
+  -ms-flex-pack: distribute;
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+  -ms-flex-align: center;
+}
+@media only screen and (max-width: 939px) {
+  .flex-grid{
+    -webkit-box-lines: multiple;
+    -moz-box-lines: multiple;
+    -o-box-lines: multiple;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+}
+.flex-grid .flex-item{
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -o-box-flex: 1;
+  box-flex: 1;
+  -webkit-flex: 1 100%;
+  -ms-flex: 1 100%;
+  flex: 1 100%;
+  -ms-flex: 1 10%;
+  margin: auto;
+}
+
+.hs-form input:not([type=submit]), .hs-form select, .hs-form textarea{
+	background-color: #0f0f19;
+  border: 1px solid #393945;
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+	color: #d0d0d2;
+}
+.hs-form label:not(.hs-error-msg){
+		margin-top: 15px;
+	  margin-bottom: 5px;
+}
+.hs-form input[type="submit"] {
+  border-radius: 3px;
+  color: #000;
+  background-color: #d8c13a;
+  border: 1px solid #d8c13a;
+  font-size: 0.942666666666667rem;
+  font-weight: bold;
+  padding: 0.4em 1.15em;
+	margin-top: 15px;
+}
+
+.hs-error-msg{
+    font-size: 0.9rem;
+    font-style: italic;
+    color: red;
+		margin-top: 0px;
+}
+
+#leadinModal-1845958{
+	.leadinModal-content-wrapper{
+		background-color: #141422;
+	}
+}
+
+#leadinModal-1027305{
+	.leadinModal-content-wrapper{
+		background-color: #141422;
+	}
+}
+
+#leadinModal-919476{
+		.leadinModal-content-wrapper{
+			background-color: #141422;
+		}
+	}
+
+.leadinModal.leadinModal-theme-default.leadinModal-v3 .leadinModal-content{
+	background-color: #141422 !important;
+}
+
+.leadinModal .leadinModal-content h4{
+	color: #FFF !important;
+}
+
+.leadinModal .leadinModal-content label{
+	color: #FFF !important;
+}
+
+.leadinModal .leadinModal-content p, .leadinModal .leadinModal-content ul, .leadinModal .leadinModal-content li, .leadinModal .leadinModal-content input[type="text"], .leadinModal .leadinModal-content input[type="email"], .leadinModal .leadinModal-content input[type="tel"], .leadinModal .leadinModal-content input[type="number"], .leadinModal .leadinModal-content input[type="checkbox"], .leadinModal .leadinModal-content select, .leadinModal .leadinModal-content textarea, .leadinModal .leadinModal-content .secondary-dismiss{
+	color: #FFF !important;
+}
+
+.leadinModal-1027305 .leadin-button.leadin-button-primary{
+	color: #141422 !important;
+	font-weight: bold !important;
+}
+
+.leadinModal-2098798 .leadin-button.leadin-button-primary{
+	color: #141422 !important;
+	font-weight: bold !important;
+}
+
+
+.leadinModal-919476 .leadin-button.leadin-button-primary{
+	color: #141422 !important;
+	font-weight: bold !important;
+}
+
+.leadinModal-1845958 .leadin-button.leadin-button-primary{
+	color: #141422 !important;
+	font-weight: bold !important;
+}
+
+.leadinModal-1842530 .leadin-button.leadin-button-primary{
+	color: #141422 !important;
+	font-weight: bold !important;
+}
+
+.leadinModal-1858372 .leadin-button.leadin-button-primary{
+	color: #141422 !important;
+	font-weight: bold !important;
+}
+
+
+.category-blog blockquote,  .category-compare blockquote{
+	position: relative;
+	padding: 1.7rem 3.4rem;
+	font-size: 1.2rem;
+	font-style: italic;
+	font-weight: 300;
+}
+
+.category-blog blockquote cite, .category-compare blockquote cite{
+	display: block;
+	text-align: right;
+	font-size: 1rem
+}
+.category-blog blockquote:before, .category-blog blockquote:after, .category-compare blockquote:before, .category-compare blockquote:after{
+	display: block;
+	font-family: "Font Awesome 5 Free";
+	position: absolute;
+	font-size: 2.828rem;
+	opacity: .25;
+	font-style: normal;
+	font-weight: 900;
+}
+.category-blog blockquote:before, .category-compare blockquote:before{
+	content: '\f10d';
+	top: 0;
+	left: -1.7rem
+}
+.category-blog blockquote:after, .category-compare blockquote:after{
+	content: '\f10e';
+	bottom: 0;
+	right: -1.7rem
+}
+
+.category-blog .wp-block-button__link:hover{
+	color: #000
+}
+
+.category-blog code, .category-problems code, .category-gitkon code{
+	color: #c13527;
+	background-color: #262633;
+	padding: 5px 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	border-radius: 3px;
+	font-size: 90%;
+	vertical-align: bottom;
+}
+
+/* .category-blog .callout, .category-reports .callout{
+	text-align: center;
+	display: block;
+	padding: 2px;
+	font-weight: bold;
+	background: linear-gradient(90deg, rgba(255, 255, 0, 0.8), rgba(255, 0, 255, 0.8), rgba(129, 20, 224, 0.8));
+	border-radius: 5px;
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+.category-blog .callout .callout-content, .category-reports .callout .callout-content{
+	background-color: #141422;
+	padding: 2rem;
+  border-radius: 5px;
+}
+ */
+
+.category-blog .callout, .category-reports .callout{
+	text-align: center;
+	display: block;
+	padding: 1px;
+	font-weight: normal;
+	background: #656565;;
+	border-radius: 5px;
+/* 	max-width: 700px; */
+	margin: 0 auto;
+}
+
+.category-blog .callout .callout-content, .category-reports .callout .callout-content{
+	background-color: #1C1C1C;
+	padding: 2rem;
+  border-radius: 5px;
+	color: #9C9EA0;
+	font-size: 15px
+}
+
+/* .category-problems .callout, .category-compare .callout, .category-best-practices .callout, .category-commands .callout, .category-tutorials .callout, .category-concepts .callout, .category-definitions .callout{
+	text-align: center;
+	display: block;
+	padding: 2px;
+	font-weight: bold;
+	background: linear-gradient(90deg, rgba(237,48,101,0.8), rgba(65,98,173, 0.8), rgba(80,187,117,0.8));
+	border-radius: 5px;
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+.category-problems .callout .callout-content, .category-compare .callout .callout-content, .category-best-practices .callout .callout-content, .category-commands .callout .callout-content, .category-tutorials .callout .callout-content, .category-concepts .callout .callout-content, .category-definitions .callout .callout-content{
+	background-color: #141422;
+	padding: 2rem;
+  border-radius: 5px;
+} */
+
+.category-problems .callout, .category-compare .callout, .category-best-practices .callout, .category-commands .callout, .category-tutorials .callout, .category-concepts .callout, .category-definitions .callout{
+	text-align: center;
+	display: block;
+	padding: 2px;
+	font-weight: normal;
+	background: #656565;
+	border-radius: 5px;
+/* 	max-width: 700px; */
+	margin: 0 auto;
+}
+
+.category-problems .callout .callout-content, .category-compare .callout .callout-content, .category-best-practices .callout .callout-content, .category-commands .callout .callout-content, .category-tutorials .callout .callout-content, .category-concepts .callout .callout-content, .category-definitions .callout .callout-content{
+	background-color: #1C1C1C;
+	padding: 2rem;
+  border-radius: 5px;
+  color: #9C9EA0;
+	font-size: 15px
+}
+
+.category-gitkon .callout{
+	text-align: center;
+	display: block;
+	padding: 2px;
+	font-weight: bold;
+	background: linear-gradient(90deg, rgba(23, 207, 226, 0.8), rgba(74, 74, 182, 0.8), rgba(190, 48, 224, 0.8));
+	border-radius: 5px;
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+.category-gitkon .callout .callout-content{
+	background-color: #141422;
+	padding: 2rem;
+  border-radius: 5px;
+}
+
+.post-tags{
+	display: none;
+}
+
+.anchor{
+	display: block;
+	scroll-margin-top: 200px;
+}
+
+.aal_anchor{
+	fill: white;
+	margin-right: 10px;
+	scroll-margin-top: 150px;
+}
+
+.post-12180 table tbody>tr:nth-child(odd)>td, table tbody>tr:nth-child(odd)>th{
+	 background-color: transparent;
+}		</style>
+		</head>
+<body class="post-template-default single single-post postid-1529 single-format-standard wp-custom-logo elementor-default elementor-kit-7 elementor-page elementor-page-1529">
+
+<script>	   
+
+	function getQueryString() {
+        var fullString = document.URL.split('#')[0].split('?')[1];
+        if( fullString != undefined ) {
+            var stringObj = {};
+            if( fullString.indexOf('&') !== -1 ){
+                var querySplit = fullString.split('&');
+                for( var qspi = 0; qspi < querySplit.length; qspi++ ) {
+                    var subSplit = querySplit[qspi].split('=');
+                    stringObj[subSplit[0]] = subSplit[1];
+                }
+            } else {
+                var subSplit = fullString.split('=');
+                stringObj[subSplit[0]] = subSplit[1];
+            }
+            return stringObj;
+        }
+        return false;
+    }
+
+	var gtmAccountSite = '<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NWXSFJM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>'
+	var gtm = '<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDWLWX3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>'
+
+    var urlParams = getQueryString(); 
+    var accountsite = decodeURIComponent(urlParams.accountsite); 
+    var gtmDiv = document.createElement("div");
+
+    if(accountsite == 'true'){ 
+		gtmDiv.innerHTML = gtmAccountSite;
+		document.body.appendChild(gtmDiv);
+    } else {
+		gtmDiv.innerHTML = gtm;
+		document.body.appendChild(gtmDiv);
+	}
+
+</script>		<div data-elementor-type="header" data-elementor-id="12101" class="elementor elementor-12101 elementor-location-header">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-9f890ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9f890ff" data-element_type="section" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e4cb30a" data-id="e4cb30a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-1b557ac elementor-section-content-middle embed-hidden elementor-section-height-default elementor-section-boxed elementor-section-height-default" data-id="1b557ac" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-720b971" data-id="720b971" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e882eb0 elementor-widget elementor-widget-image" data-id="e882eb0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="/">
+							<picture class="attachment-full size-full wp-image-11740">
+<source type="image/webp" srcset="https://www.gitkraken.com/wp-content/uploads/2023/07/gitkraken-logo-stencil-color.png.webp 1557w, https://www.gitkraken.com/wp-content/uploads/2023/07/gitkraken-logo-stencil-color-1024x247.png.webp 1024w, https://www.gitkraken.com/wp-content/uploads/2023/07/gitkraken-logo-stencil-color-1536x371.png.webp 1536w" sizes="(max-width: 1557px) 100vw, 1557px"/>
+<img width="1557" height="376" src="https://www.gitkraken.com/wp-content/uploads/2023/07/gitkraken-logo-stencil-color.png" alt="" srcset="https://www.gitkraken.com/wp-content/uploads/2023/07/gitkraken-logo-stencil-color.png 1557w, https://www.gitkraken.com/wp-content/uploads/2023/07/gitkraken-logo-stencil-color-300x72.png 300w, https://www.gitkraken.com/wp-content/uploads/2023/07/gitkraken-logo-stencil-color-1024x247.png 1024w, https://www.gitkraken.com/wp-content/uploads/2023/07/gitkraken-logo-stencil-color-768x185.png 768w, https://www.gitkraken.com/wp-content/uploads/2023/07/gitkraken-logo-stencil-color-1536x371.png 1536w" sizes="(max-width: 1557px) 100vw, 1557px"/>
+</picture>
+								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-325fa55" data-id="325fa55" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3bc33dc animated-fast elementor-widget__width-initial elementor-widget elementor-widget-tp-navigation-menu" data-id="3bc33dc" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="tp-navigation-menu.default">
+				<div class="elementor-widget-container">
+					
+		<div class="plus-navigation-wrap text-right nav-menu65101e657f4913bc33dc">
+			<div class="plus-navigation-inner menu-hover main-menu-indicator-style-1 sub-menu-indicator-none plus-menu-style-4"  data-menu_transition="style-4" data-mobile-menu-click="yes">
+				<div id="theplus-navigation-normal-menu" class="collapse navbar-collapse navbar-ex1-collapse">
+				
+					<div class="plus-navigation-menu menu-horizontal   ">
+												<ul id="menu-menu-with-use-cases" class="nav navbar-nav yamm menu-hover-none  "><li id="menu-item-11617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children animate-dropdown menu-item-11617 depth-0 dropdown plus-dropdown-menu-" ><a title="GitKraken Client" href="/git-client" class="dropdown-toggle" aria-haspopup="true" data-text="GitKraken Client">GitKraken Client</a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-11618" class="menu-item menu-item-type-post_type menu-item-object-plus-mega-menu animate-dropdown menu-item-11618 plus-dropdown-menu-" ><div class="plus-megamenu-content">		<div data-elementor-type="wp-post" data-elementor-id="11612" class="elementor elementor-11612">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-e705ea1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e705ea1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-85adc55" data-id="85adc55" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d2f3776 elementor-widget elementor-widget-text-editor" data-id="d2f3776" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Product 						</div>
+				</div>
+				<div class="elementor-element elementor-element-2d1730f nav-list elementor-widget elementor-widget-text-editor" data-id="2d1730f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a class="overview" href="/git-client">Product Overview</a>
+<a href="/git-client/team-features">For Teams</a>
+<a href="/git-client/enterprise">For Enterprise</a>
+<a href="/git-client/on-premise">For On-Premise</a>
+<a href="https://help.gitkraken.com/gitkraken-client/gitkraken-client-home/" target="_blank" rel="noopener">Docs &amp; Support</a>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6812c52 elementor-widget elementor-widget-button" data-id="6812c52" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.gitkraken.com/git-client/pricing" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-dollar-sign"></i>			</span>
+						<span class="elementor-button-text">&nbsp; &nbsp;Pricing</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c8800b1" data-id="c8800b1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4acfadd elementor-widget elementor-widget-text-editor" data-id="4acfadd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Use Cases						</div>
+				</div>
+				<div class="elementor-element elementor-element-1d91033 nav-list elementor-widget elementor-widget-text-editor" data-id="1d91033" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a class="overview" href="https://www.gitkraken.com/git-client/use-cases">Use Cases Overview</a>
+<a href="https://www.gitkraken.com/git-client/use-cases/weaving-a-sleeker-pull-request-workflow">Pull Request Workflow</a>
+<a href="https://www.gitkraken.com/git-client/use-cases/resolve-merge-conflicts-like-a-pro">Resolving Merge Conflicts</a>
+<a href="https://www.gitkraken.com/git-client/use-cases/use-jira-without-opening-jira">Using Jira Without Jira </a> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-2950f95 elementor-align-justify elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="2950f95" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/git-client/try-free" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-cloud-download-alt"></i>			</span>
+						<span class="elementor-button-text">Download for Free</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		</div></li>
+</ul>
+</li>
+<li id="menu-item-11619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children animate-dropdown menu-item-11619 depth-0 dropdown plus-dropdown-menu-" ><a title="GitLens for VS Code" href="/gitlens" class="dropdown-toggle" aria-haspopup="true" data-text="GitLens for VS Code">GitLens for VS Code</a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-11620" class="menu-item menu-item-type-post_type menu-item-object-plus-mega-menu animate-dropdown menu-item-11620 plus-dropdown-menu-" ><div class="plus-megamenu-content">		<div data-elementor-type="wp-post" data-elementor-id="11613" class="elementor elementor-11613">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-88f5255 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="88f5255" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-11fa8eb" data-id="11fa8eb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-874e403 elementor-widget elementor-widget-text-editor" data-id="874e403" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Product 						</div>
+				</div>
+				<div class="elementor-element elementor-element-36883b4 nav-list elementor-widget elementor-widget-text-editor" data-id="36883b4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a class="overview" href="/gitlens">Product Overview</a>
+<a href="/gitlens/pro-features">Why GitLens Pro</a>
+<a href="https://help.gitkraken.com/gitlens/gitlens-home/" target="_blank" rel="noopener">Docs &amp; Support</a> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-da5b3a5 elementor-widget elementor-widget-button" data-id="da5b3a5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.gitkraken.com/gitlens/pricing" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-dollar-sign"></i>			</span>
+						<span class="elementor-button-text">&nbsp; &nbsp;Pricing</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6a3db65" data-id="6a3db65" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5650089 elementor-widget elementor-widget-text-editor" data-id="5650089" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Use Cases						</div>
+				</div>
+				<div class="elementor-element elementor-element-5d5ac4c nav-list elementor-widget elementor-widget-text-editor" data-id="5d5ac4c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a class="overview" href="https://www.gitkraken.com/gitlens/use-cases">Use Cases Overview</a>
+<a href="https://www.gitkraken.com/gitlens/use-cases/quickly-viewing-code-change-details-with-gitlens">View Change Details</a>
+<a href="https://www.gitkraken.com/gitlens/use-cases/minimize-distractions-maximize-productivity">Reduce Context Switching</a>
+<a href="https://www.gitkraken.com/gitlens/use-cases/more-efficient-code-workflows">Efficient Code Workflows</a>
+<a href="https://www.gitkraken.com/gitlens/use-cases/elevating-collaborative-coding-efforts">Team Collaboration</a> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-7537998 elementor-align-justify elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="7537998" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.gitkraken.com/gitlens/try-free" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-cloud-download-alt"></i>			</span>
+						<span class="elementor-button-text">Install for Free</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		</div></li>
+</ul>
+</li>
+<li id="menu-item-11621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children animate-dropdown menu-item-11621 depth-0 dropdown plus-dropdown-menu-" ><a title="Git Integration for Jira" href="/git-integration-for-jira" class="dropdown-toggle" aria-haspopup="true" data-text="Git Integration for Jira">Git Integration for Jira</a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-11622" class="menu-item menu-item-type-post_type menu-item-object-plus-mega-menu animate-dropdown menu-item-11622 plus-dropdown-menu-" ><div class="plus-megamenu-content">		<div data-elementor-type="wp-post" data-elementor-id="11614" class="elementor elementor-11614">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-70a5483 animated-fast elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="70a5483" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;none&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-bf43890" data-id="bf43890" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2e5029c elementor-widget elementor-widget-text-editor" data-id="2e5029c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Product 						</div>
+				</div>
+				<div class="elementor-element elementor-element-abd6dc7 nav-list elementor-widget elementor-widget-text-editor" data-id="abd6dc7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a class="overview" href="/git-integration-for-jira">Product Overview</a>
+<a href="/git-integration-for-jira/team-insights">Team Insights for Jira</a>
+<a href="/git-integration-for-jira/ci-cd">CI/CD for Jira</a>
+<a href="https://help.gitkraken.com/git-integration-for-jira-cloud/git-integration-for-jira-home-gij-cloud/" target="_blank" rel="noopener">Docs &amp; Support</a> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-f1880ae elementor-align-justify elementor-tablet-align-justify elementor-widget elementor-widget-button" data-id="f1880ae" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://marketplace.atlassian.com/apps/4984/git-integration-for-jira?tab=pricing&#038;utm_campaign=CTA&#038;utm_content=Pricing&#038;utm_medium=Navigation&#038;hosting=cloud" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-dollar-sign"></i>			</span>
+						<span class="elementor-button-text">&nbsp; &nbsp;Pricing</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d066efe" data-id="d066efe" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-df55350 elementor-widget elementor-widget-text-editor" data-id="df55350" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Use Cases						</div>
+				</div>
+				<div class="elementor-element elementor-element-413cbe9 nav-list elementor-widget elementor-widget-text-editor" data-id="413cbe9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a class="overview" href="https://www.gitkraken.com/git-integration-for-jira/use-cases">Use Cases Overview</a>
+<a href="https://www.gitkraken.com/git-integration-for-jira/use-cases/improving-development-visibility">Development Visibility</a>
+<a href="https://www.gitkraken.com/git-integration-for-jira/use-cases/giving-developers-a-better-jira-experience">Developer Jira Experience</a>
+<a href="https://www.gitkraken.com/git-integration-for-jira/use-cases/monitor-and-adapt-development-plans-based-on-team-activity">Track Development Plans</a> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-8806401 elementor-align-justify elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="8806401" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.gitkraken.com/git-integration-for-jira/try-free" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-cloud-download-alt"></i>			</span>
+						<span class="elementor-button-text">Start Free Trial</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		</div></li>
+</ul>
+</li>
+<li id="menu-item-11623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children animate-dropdown menu-item-11623 depth-0 dropdown plus-dropdown-menu-" ><a title="Learn" href="#" class="dropdown-toggle" aria-haspopup="true" data-text="Learn">Learn</a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-11624" class="menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-11624 plus-dropdown-menu-" ><a title="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-info-circle&quot;&gt;&lt;/i&gt;  Product Help Center  &lt;sup&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/sup&gt;" target="_blank" href="http://help.gitkraken.com/" data-text="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-info-circle&quot;&gt;&lt;/i&gt;  Product Help Center  &lt;sup&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/sup&gt;"><i aria-hidden="true" class="fas fa-info-circle"></i>  Product Help Center  <sup><i class="fas fa-external-link-alt"></i></sup></a></li>
+	<li id="menu-item-11625" class="menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-11625 plus-dropdown-menu-" ><a title="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-school&quot;&gt;&lt;/i&gt;  Learn Git Library" href="/learn/git" data-text="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-school&quot;&gt;&lt;/i&gt;  Learn Git Library"><i aria-hidden="true" class="fas fa-school"></i>  Learn Git Library</a></li>
+	<li id="menu-item-11626" class="menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-11626 plus-dropdown-menu-" ><a title="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-book&quot;&gt;&lt;/i&gt;  Git Blog" href="/blog" data-text="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-book&quot;&gt;&lt;/i&gt;  Git Blog"><i aria-hidden="true" class="fas fa-book"></i>  Git Blog</a></li>
+	<li id="menu-item-11745" class="menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-11745 plus-dropdown-menu-" ><a title="&lt;i aria-hidden=&quot;true&quot; class=&quot;fa fa-flask&quot;&gt;&lt;/i&gt;  GitKraken Labs" href="https://www.gitkraken.com/labs" data-text="&lt;i aria-hidden=&quot;true&quot; class=&quot;fa fa-flask&quot;&gt;&lt;/i&gt;  GitKraken Labs"><i aria-hidden="true" class="fa fa-flask"></i>  GitKraken Labs</a></li>
+	<li id="menu-item-11627" class="nav-gitkon menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-11627 plus-dropdown-menu-" ><a title="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-code-branch&quot;&gt;&lt;/i&gt;   GitKon 2023" target="_blank" href="https://gitkon.com/" data-text="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-code-branch&quot;&gt;&lt;/i&gt;   GitKon 2023"><i aria-hidden="true" class="fas fa-code-branch"></i>   GitKon 2023</a></li>
+</ul>
+</li>
+<li id="menu-item-12110" class="menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-12110 plus-dropdown-menu-" ><a title="Git Blog" href="/blog" data-text="Git Blog">Git Blog</a></li>
+<li id="menu-item-12111" class="menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-12111 plus-dropdown-menu-" ><a title="My Account" href="https://app.gitkraken.com/login" data-text="My Account">My Account</a></li>
+</ul>						
+					</div>
+					
+				</div>
+				
+															<div class="plus-mobile-nav-toggle navbar-header mobile-toggle">
+													<div class="mobile-plus-toggle-menu plus-collapsed toggle-style-2" data-target="#plus-mobile-nav-toggle-nav-menu65101e657f4913bc33dc">
+																			<div class="mobile-plus-toggle-menu-st2"></div><div class="mobile-plus-toggle-menu-st2-h"></div>
+															</div>
+						</div>
+															<div id="plus-mobile-nav-toggle-nav-menu65101e657f4913bc33dc" class="collapse navbar-collapse navbar-ex1-collapse plus-mobile-menu-content ">
+						<div class="plus-mobile-menu"><ul id="menu-menu-with-use-cases-1" class="nav navbar-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children animate-dropdown menu-item-11617 depth-0 dropdown plus-dropdown-menu-" ><a title="GitKraken Client" href="/git-client" class="dropdown-toggle" aria-haspopup="true" data-text="GitKraken Client">GitKraken Client</a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-plus-mega-menu animate-dropdown menu-item-11618 plus-dropdown-menu-" ><div class="plus-megamenu-content">		<div data-elementor-type="wp-post" data-elementor-id="11612" class="elementor elementor-11612">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-e705ea1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e705ea1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-85adc55" data-id="85adc55" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d2f3776 elementor-widget elementor-widget-text-editor" data-id="d2f3776" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Product 						</div>
+				</div>
+				<div class="elementor-element elementor-element-2d1730f nav-list elementor-widget elementor-widget-text-editor" data-id="2d1730f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a class="overview" href="/git-client">Product Overview</a>
+<a href="/git-client/team-features">For Teams</a>
+<a href="/git-client/enterprise">For Enterprise</a>
+<a href="/git-client/on-premise">For On-Premise</a>
+<a href="https://help.gitkraken.com/gitkraken-client/gitkraken-client-home/" target="_blank" rel="noopener">Docs &amp; Support</a>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6812c52 elementor-widget elementor-widget-button" data-id="6812c52" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.gitkraken.com/git-client/pricing" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-dollar-sign"></i>			</span>
+						<span class="elementor-button-text">&nbsp; &nbsp;Pricing</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c8800b1" data-id="c8800b1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4acfadd elementor-widget elementor-widget-text-editor" data-id="4acfadd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Use Cases						</div>
+				</div>
+				<div class="elementor-element elementor-element-1d91033 nav-list elementor-widget elementor-widget-text-editor" data-id="1d91033" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a class="overview" href="https://www.gitkraken.com/git-client/use-cases">Use Cases Overview</a>
+<a href="https://www.gitkraken.com/git-client/use-cases/weaving-a-sleeker-pull-request-workflow">Pull Request Workflow</a>
+<a href="https://www.gitkraken.com/git-client/use-cases/resolve-merge-conflicts-like-a-pro">Resolving Merge Conflicts</a>
+<a href="https://www.gitkraken.com/git-client/use-cases/use-jira-without-opening-jira">Using Jira Without Jira </a> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-2950f95 elementor-align-justify elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="2950f95" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/git-client/try-free" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-cloud-download-alt"></i>			</span>
+						<span class="elementor-button-text">Download for Free</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		</div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children animate-dropdown menu-item-11619 depth-0 dropdown plus-dropdown-menu-" ><a title="GitLens for VS Code" href="/gitlens" class="dropdown-toggle" aria-haspopup="true" data-text="GitLens for VS Code">GitLens for VS Code</a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-plus-mega-menu animate-dropdown menu-item-11620 plus-dropdown-menu-" ><div class="plus-megamenu-content">		<div data-elementor-type="wp-post" data-elementor-id="11613" class="elementor elementor-11613">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-88f5255 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="88f5255" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-11fa8eb" data-id="11fa8eb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-874e403 elementor-widget elementor-widget-text-editor" data-id="874e403" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Product 						</div>
+				</div>
+				<div class="elementor-element elementor-element-36883b4 nav-list elementor-widget elementor-widget-text-editor" data-id="36883b4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a class="overview" href="/gitlens">Product Overview</a>
+<a href="/gitlens/pro-features">Why GitLens Pro</a>
+<a href="https://help.gitkraken.com/gitlens/gitlens-home/" target="_blank" rel="noopener">Docs &amp; Support</a> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-da5b3a5 elementor-widget elementor-widget-button" data-id="da5b3a5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.gitkraken.com/gitlens/pricing" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-dollar-sign"></i>			</span>
+						<span class="elementor-button-text">&nbsp; &nbsp;Pricing</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6a3db65" data-id="6a3db65" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5650089 elementor-widget elementor-widget-text-editor" data-id="5650089" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Use Cases						</div>
+				</div>
+				<div class="elementor-element elementor-element-5d5ac4c nav-list elementor-widget elementor-widget-text-editor" data-id="5d5ac4c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a class="overview" href="https://www.gitkraken.com/gitlens/use-cases">Use Cases Overview</a>
+<a href="https://www.gitkraken.com/gitlens/use-cases/quickly-viewing-code-change-details-with-gitlens">View Change Details</a>
+<a href="https://www.gitkraken.com/gitlens/use-cases/minimize-distractions-maximize-productivity">Reduce Context Switching</a>
+<a href="https://www.gitkraken.com/gitlens/use-cases/more-efficient-code-workflows">Efficient Code Workflows</a>
+<a href="https://www.gitkraken.com/gitlens/use-cases/elevating-collaborative-coding-efforts">Team Collaboration</a> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-7537998 elementor-align-justify elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="7537998" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.gitkraken.com/gitlens/try-free" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-cloud-download-alt"></i>			</span>
+						<span class="elementor-button-text">Install for Free</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		</div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children animate-dropdown menu-item-11621 depth-0 dropdown plus-dropdown-menu-" ><a title="Git Integration for Jira" href="/git-integration-for-jira" class="dropdown-toggle" aria-haspopup="true" data-text="Git Integration for Jira">Git Integration for Jira</a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-plus-mega-menu animate-dropdown menu-item-11622 plus-dropdown-menu-" ><div class="plus-megamenu-content">		<div data-elementor-type="wp-post" data-elementor-id="11614" class="elementor elementor-11614">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-70a5483 animated-fast elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="70a5483" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;none&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-bf43890" data-id="bf43890" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2e5029c elementor-widget elementor-widget-text-editor" data-id="2e5029c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Product 						</div>
+				</div>
+				<div class="elementor-element elementor-element-abd6dc7 nav-list elementor-widget elementor-widget-text-editor" data-id="abd6dc7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a class="overview" href="/git-integration-for-jira">Product Overview</a>
+<a href="/git-integration-for-jira/team-insights">Team Insights for Jira</a>
+<a href="/git-integration-for-jira/ci-cd">CI/CD for Jira</a>
+<a href="https://help.gitkraken.com/git-integration-for-jira-cloud/git-integration-for-jira-home-gij-cloud/" target="_blank" rel="noopener">Docs &amp; Support</a> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-f1880ae elementor-align-justify elementor-tablet-align-justify elementor-widget elementor-widget-button" data-id="f1880ae" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://marketplace.atlassian.com/apps/4984/git-integration-for-jira?tab=pricing&#038;utm_campaign=CTA&#038;utm_content=Pricing&#038;utm_medium=Navigation&#038;hosting=cloud" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-dollar-sign"></i>			</span>
+						<span class="elementor-button-text">&nbsp; &nbsp;Pricing</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d066efe" data-id="d066efe" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-df55350 elementor-widget elementor-widget-text-editor" data-id="df55350" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Use Cases						</div>
+				</div>
+				<div class="elementor-element elementor-element-413cbe9 nav-list elementor-widget elementor-widget-text-editor" data-id="413cbe9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a class="overview" href="https://www.gitkraken.com/git-integration-for-jira/use-cases">Use Cases Overview</a>
+<a href="https://www.gitkraken.com/git-integration-for-jira/use-cases/improving-development-visibility">Development Visibility</a>
+<a href="https://www.gitkraken.com/git-integration-for-jira/use-cases/giving-developers-a-better-jira-experience">Developer Jira Experience</a>
+<a href="https://www.gitkraken.com/git-integration-for-jira/use-cases/monitor-and-adapt-development-plans-based-on-team-activity">Track Development Plans</a> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-8806401 elementor-align-justify elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="8806401" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.gitkraken.com/git-integration-for-jira/try-free" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-cloud-download-alt"></i>			</span>
+						<span class="elementor-button-text">Start Free Trial</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		</div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children animate-dropdown menu-item-11623 depth-0 dropdown plus-dropdown-menu-" ><a title="Learn" href="#" class="dropdown-toggle" aria-haspopup="true" data-text="Learn">Learn</a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-11624 plus-dropdown-menu-" ><a title="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-info-circle&quot;&gt;&lt;/i&gt;  Product Help Center  &lt;sup&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/sup&gt;" target="_blank" href="http://help.gitkraken.com/" data-text="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-info-circle&quot;&gt;&lt;/i&gt;  Product Help Center  &lt;sup&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/sup&gt;"><i aria-hidden="true" class="fas fa-info-circle"></i>  Product Help Center  <sup><i class="fas fa-external-link-alt"></i></sup></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-11625 plus-dropdown-menu-" ><a title="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-school&quot;&gt;&lt;/i&gt;  Learn Git Library" href="/learn/git" data-text="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-school&quot;&gt;&lt;/i&gt;  Learn Git Library"><i aria-hidden="true" class="fas fa-school"></i>  Learn Git Library</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-11626 plus-dropdown-menu-" ><a title="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-book&quot;&gt;&lt;/i&gt;  Git Blog" href="/blog" data-text="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-book&quot;&gt;&lt;/i&gt;  Git Blog"><i aria-hidden="true" class="fas fa-book"></i>  Git Blog</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-11745 plus-dropdown-menu-" ><a title="&lt;i aria-hidden=&quot;true&quot; class=&quot;fa fa-flask&quot;&gt;&lt;/i&gt;  GitKraken Labs" href="https://www.gitkraken.com/labs" data-text="&lt;i aria-hidden=&quot;true&quot; class=&quot;fa fa-flask&quot;&gt;&lt;/i&gt;  GitKraken Labs"><i aria-hidden="true" class="fa fa-flask"></i>  GitKraken Labs</a></li>
+	<li class="nav-gitkon menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-11627 plus-dropdown-menu-" ><a title="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-code-branch&quot;&gt;&lt;/i&gt;   GitKon 2023" target="_blank" href="https://gitkon.com/" data-text="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-code-branch&quot;&gt;&lt;/i&gt;   GitKon 2023"><i aria-hidden="true" class="fas fa-code-branch"></i>   GitKon 2023</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-12110 plus-dropdown-menu-" ><a title="Git Blog" href="/blog" data-text="Git Blog">Git Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom animate-dropdown menu-item-12111 plus-dropdown-menu-" ><a title="My Account" href="https://app.gitkraken.com/login" data-text="My Account">My Account</a></li>
+</ul></div>											</div>
+								
+			</div>
+		</div>
+		 
+		<style>@media (min-width:992px){.plus-navigation-wrap.nav-menu65101e657f4913bc33dc #theplus-navigation-normal-menu{display: block!important;}.plus-navigation-wrap.nav-menu65101e657f4913bc33dc #plus-mobile-nav-toggle-nav-menu65101e657f4913bc33dc.collapse.in{display:none;}}@media (max-width:991px){.plus-navigation-wrap.nav-menu65101e657f4913bc33dc #theplus-navigation-normal-menu{display:none !important;}.plus-navigation-wrap.nav-menu65101e657f4913bc33dc .plus-mobile-nav-toggle.mobile-toggle{display: -webkit-flex;display: -moz-flex;display: -ms-flex;display: flex;-webkit-align-items: center;-moz-align-items: center;-ms-align-items: center;align-items: center;-webkit-justify-content: flex-end;-moz-justify-content: flex-end;-ms-justify-content: flex-end;justify-content: flex-end;}.plus-navigation-wrap .plus-mobile-menu-content.collapse.swiper-container{display: block;}}</style>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-fb0265e elementor-hidden-mobile elementor-hidden-tablet" data-id="fb0265e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2b8f8dd elementor-search-form--skin-full_screen elementor-widget elementor-widget-search-form" data-id="2b8f8dd" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;full_screen&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-search-form" role="search" action="https://www.gitkraken.com" method="get">
+									<div class="elementor-search-form__toggle" tabindex="0" role="button">
+				<i aria-hidden="true" class="fas fa-search"></i>				<span class="elementor-screen-only">Search</span>
+			</div>
+						<div class="elementor-search-form__container">
+								<input placeholder="Search..." class="elementor-search-form__input" type="search" name="s" title="Search" value="">
+																<div class="dialog-lightbox-close-button dialog-close-button">
+					<i aria-hidden="true" class="eicon-close"></i>					<span class="elementor-screen-only">Close this search box.</span>
+				</div>
+							</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+		
+<main class="site-main post-1529 post type-post status-publish format-standard has-post-thumbnail hentry category-download" role="main">
+		<div class="page-content">
+				<div data-elementor-type="wp-post" data-elementor-id="1529" class="elementor elementor-1529">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-374ad442 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="374ad442" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4b037d8" data-id="4b037d8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-44ff48e1 elementor-widget elementor-widget-image" data-id="44ff48e1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<picture decoding="async" class="attachment-full size-full wp-image-11485">
+<source type="image/webp" srcset="https://www.gitkraken.com/wp-content/uploads/2023/06/gitkraken-client-logo-stencil-color.png.webp 523w" sizes="(max-width: 523px) 100vw, 523px"/>
+<img decoding="async" width="523" height="85" src="https://www.gitkraken.com/wp-content/uploads/2023/06/gitkraken-client-logo-stencil-color.png" alt="" srcset="https://www.gitkraken.com/wp-content/uploads/2023/06/gitkraken-client-logo-stencil-color.png 523w, https://www.gitkraken.com/wp-content/uploads/2023/06/gitkraken-client-logo-stencil-color-300x49.png 300w" sizes="(max-width: 523px) 100vw, 523px"/>
+</picture>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-59b039d6 elementor-widget elementor-widget-heading" data-id="59b039d6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default"><a href="#thanks-for-downloading-the-1-git-client-in-the-world-the-universe" aria-hidden="true" class="aal_anchor" id="thanks-for-downloading-the-1-git-client-in-the-world-the-universe"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Thanks for downloading the #1 Git client in the world (the universe?)</h4>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3d36b0d3 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="3d36b0d3" data-element_type="section" id="extended-trial-form">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6af93f26" data-id="6af93f26" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-576892ae elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="576892ae" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-739edf03" data-id="739edf03" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2f188949 elementor-widget elementor-widget-image" data-id="2f188949" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<picture decoding="async" class="attachment-large size-large wp-image-11415">
+<source type="image/webp" srcset="https://www.gitkraken.com/wp-content/uploads/2023/06/gitkraken-logo-stencil-color-1024x247.png.webp 1024w, https://www.gitkraken.com/wp-content/uploads/2023/06/gitkraken-logo-stencil-color-1536x371.png.webp 1536w, https://www.gitkraken.com/wp-content/uploads/2023/06/gitkraken-logo-stencil-color-2048x494.png.webp 2048w" sizes="(max-width: 800px) 100vw, 800px"/>
+<img decoding="async" width="800" height="193" src="https://www.gitkraken.com/wp-content/uploads/2023/06/gitkraken-logo-stencil-color-1024x247.png" alt="" srcset="https://www.gitkraken.com/wp-content/uploads/2023/06/gitkraken-logo-stencil-color-1024x247.png 1024w, https://www.gitkraken.com/wp-content/uploads/2023/06/gitkraken-logo-stencil-color-300x72.png 300w, https://www.gitkraken.com/wp-content/uploads/2023/06/gitkraken-logo-stencil-color-768x185.png 768w, https://www.gitkraken.com/wp-content/uploads/2023/06/gitkraken-logo-stencil-color-1536x371.png 1536w, https://www.gitkraken.com/wp-content/uploads/2023/06/gitkraken-logo-stencil-color-2048x494.png 2048w" sizes="(max-width: 800px) 100vw, 800px"/>
+</picture>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-112430f3" data-id="112430f3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7dc5b455 elementor-widget elementor-widget-text-editor" data-id="7dc5b455" data-element_type="widget" id="close-form" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>X</strong> </p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-404f303 elementor-section-height-min-height elementor-section-content-middle elementor-section-full_width elementor-section-height-default" data-id="404f303" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-375cfca3" data-id="375cfca3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-78fab354 elementor-widget elementor-widget-heading" data-id="78fab354" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default"><a href="#get-ready-for-your-free-28-day-team-trial-of-gitkraken-client" aria-hidden="true" class="aal_anchor" id="get-ready-for-your-free-28-day-team-trial-of-gitkraken-client"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Get ready for your free 28-day team trial of GitKraken Client</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4e122ec4 elementor-widget elementor-widget-text-editor" data-id="4e122ec4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Now, any members of your team can experience all the GitKraken Client features, plus onboarding &amp; support services, 100% free of charge. <span style="color: white; font-weight: bold;">We&#8217;ll set up your trial and send you the details shortly.</span>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4aef09a6 elementor-widget elementor-widget-html" data-id="4aef09a6" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "na1",
+    portalId: "544893",
+    formId: "69b5f3d9-d731-4b82-a549-e146e801a9b5"
+  });
+</script>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-20a2d71d elementor-hidden-mobile" data-id="20a2d71d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-45edbffe elementor-widget elementor-widget-image" data-id="45edbffe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<picture decoding="async" loading="lazy" class="attachment-large size-large wp-image-11403">
+<source type="image/webp" srcset="https://www.gitkraken.com/wp-content/uploads/2023/06/Group-17503-1001x1024.png.webp 1001w, https://www.gitkraken.com/wp-content/uploads/2023/06/Group-17503.png.webp 1003w" sizes="(max-width: 800px) 100vw, 800px"/>
+<img decoding="async" loading="lazy" width="800" height="818" src="https://www.gitkraken.com/wp-content/uploads/2023/06/Group-17503-1001x1024.png" alt="" srcset="https://www.gitkraken.com/wp-content/uploads/2023/06/Group-17503-1001x1024.png 1001w, https://www.gitkraken.com/wp-content/uploads/2023/06/Group-17503-293x300.png 293w, https://www.gitkraken.com/wp-content/uploads/2023/06/Group-17503-768x786.png 768w, https://www.gitkraken.com/wp-content/uploads/2023/06/Group-17503.png 1003w" sizes="(max-width: 800px) 100vw, 800px"/>
+</picture>
+															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-33a2887b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="33a2887b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2384546b" data-id="2384546b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5610910f elementor-widget elementor-widget-heading" data-id="5610910f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default"><a href="#youre-just-a-few-steps-from-using-git-more-easily-quickly-safely" aria-hidden="true" class="aal_anchor" id="youre-just-a-few-steps-from-using-git-more-easily-quickly-safely"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>You’re just a few steps from using Git more easily, quickly & safely
+ </h5>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4a002093 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4a002093" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-548682af" data-id="548682af" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-28ee3f0d elementor-view-default elementor-widget elementor-widget-icon" data-id="28ee3f0d" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-check-circle"></i>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6a342ff7" data-id="6a342ff7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5682ce19 elementor-widget elementor-widget-text-editor" data-id="5682ce19" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Your download should start automatically &#8211; If not, <a id="download-link" class="rank-math-link" href="https://release.gitkraken.com/linux/gitkraken-amd64.deb" target="_blank" rel="noopener" download="">click here</a>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5bec0c39 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5bec0c39" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2d20c971" data-id="2d20c971" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5bc1b4d6 circle elementor-widget elementor-widget-text-editor" data-id="5bc1b4d6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							2 						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-562388ef" data-id="562388ef" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3d290e85 elementor-widget elementor-widget-text-editor" data-id="3d290e85" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Run <img decoding="async" style="height: 20px; vertical-align: -5px;" src="/wp-content/uploads/2023/06/image-1-1.svg" /> gitkraken-amd64.deb						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3fafe675 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3fafe675" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5e075a84" data-id="5e075a84" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5e267c33 circle elementor-widget elementor-widget-text-editor" data-id="5e267c33" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							3						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2e574b11" data-id="2e574b11" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-142bb6cb elementor-widget elementor-widget-text-editor" data-id="142bb6cb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<span style="color: white;">Start your 7-day free trial of GitKraken Client Pro</span><br>
+<em>(you can use it FREE forever on public &amp; local repos!)</em>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4b65a618" data-id="4b65a618" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-224981b9 elementor-widget elementor-widget-heading" data-id="224981b9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default"><a href="#part-of-a-multi-person-dev-team" aria-hidden="true" class="aal_anchor" id="part-of-a-multi-person-dev-team"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Part of a multi-person dev team?</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4f49d880 elementor-widget elementor-widget-text-editor" data-id="4f49d880" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<span style="font-weight: 400;">If you add a 2nd user (or 3rd, 4th, 10th), we’ll extend your trial to be 28-days for as many team members as you want – including offering you setup &amp; support</span>, <strong><span style="color: white;">100% free</span></strong>. 						</div>
+				</div>
+				<div class="elementor-element elementor-element-703b73ae elementor-align-center request-org-trial elementor-widget elementor-widget-button" data-id="703b73ae" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#request-org-trial" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text"><i class="fas fa-rocket"></i> &nbsp; Yes, I Want to Upgrade to an Org Trial</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5785426 elementor-widget elementor-widget-image" data-id="5785426" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<picture decoding="async" loading="lazy" class="attachment-large size-large wp-image-11486">
+<source type="image/webp" srcset="https://www.gitkraken.com/wp-content/uploads/2023/06/Group-18792-1024x629.png.webp 1024w, https://www.gitkraken.com/wp-content/uploads/2023/06/Group-18792.png.webp 1116w" sizes="(max-width: 800px) 100vw, 800px"/>
+<img decoding="async" loading="lazy" width="800" height="491" src="https://www.gitkraken.com/wp-content/uploads/2023/06/Group-18792-1024x629.png" alt="" srcset="https://www.gitkraken.com/wp-content/uploads/2023/06/Group-18792-1024x629.png 1024w, https://www.gitkraken.com/wp-content/uploads/2023/06/Group-18792-300x184.png 300w, https://www.gitkraken.com/wp-content/uploads/2023/06/Group-18792-768x471.png 768w, https://www.gitkraken.com/wp-content/uploads/2023/06/Group-18792.png 1116w" sizes="(max-width: 800px) 100vw, 800px"/>
+</picture>
+															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2df12793 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2df12793" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4a7bf2b5" data-id="4a7bf2b5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3ec17f00 elementor-widget elementor-widget-heading" data-id="3ec17f00" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default"><a href="#join-the-25m-developers-from-100k-organizations-who-use-gitkraken-tools" aria-hidden="true" class="aal_anchor" id="join-the-25m-developers-from-100k-organizations-who-use-gitkraken-tools"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Join the 25M+ developers from 100K+ organizations who use GitKraken tools!
+</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7d3c97cb elementor-widget elementor-widget-image-carousel" data-id="7d3c97cb" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;8&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;slides_to_show_tablet&quot;:&quot;5&quot;,&quot;slides_to_show_mobile&quot;:&quot;3&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.gitkraken.com/wp-content/uploads/2022/03/Index-netflix-01-300x300.png" alt="Index-netflix-01.png" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.gitkraken.com/wp-content/uploads/2022/03/Index-tesla-01-300x300.png" alt="Index-tesla-01.png" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.gitkraken.com/wp-content/uploads/2022/03/x_citibank-01.svg" alt="x_citibank-01.svg" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><picture decoding="async" class="swiper-slide-image">
+<source type="image/webp" srcset="https://www.gitkraken.com/wp-content/uploads/2022/03/NASA.png.webp"/>
+<img decoding="async" src="https://www.gitkraken.com/wp-content/uploads/2022/03/NASA.png" alt="NASA.png"/>
+</picture>
+</figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><picture decoding="async" class="swiper-slide-image">
+<source type="image/webp" srcset="https://www.gitkraken.com/wp-content/uploads/2022/03/Toyota.png.webp"/>
+<img decoding="async" src="https://www.gitkraken.com/wp-content/uploads/2022/03/Toyota.png" alt="Toyota.png"/>
+</picture>
+</figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><picture decoding="async" class="swiper-slide-image">
+<source type="image/webp" srcset="https://www.gitkraken.com/wp-content/uploads/2022/03/DeutscheBank.png.webp"/>
+<img decoding="async" src="https://www.gitkraken.com/wp-content/uploads/2022/03/DeutscheBank.png" alt="DeutscheBank.png"/>
+</picture>
+</figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><picture decoding="async" class="swiper-slide-image">
+<source type="image/webp" srcset="https://www.gitkraken.com/wp-content/uploads/2022/03/Google-02.png.webp"/>
+<img decoding="async" src="https://www.gitkraken.com/wp-content/uploads/2022/03/Google-02.png" alt="Google-02.png"/>
+</picture>
+</figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><picture decoding="async" class="swiper-slide-image">
+<source type="image/webp" srcset="https://www.gitkraken.com/wp-content/uploads/2022/03/Apple.png.webp"/>
+<img decoding="async" src="https://www.gitkraken.com/wp-content/uploads/2022/03/Apple.png" alt="Apple.png"/>
+</picture>
+</figure></div>			</div>
+																</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-41ff2edb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="41ff2edb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-131797f8" data-id="131797f8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7374cdbb elementor-widget elementor-widget-html" data-id="7374cdbb" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<iframe style="display:none;" src="https://release.gitkraken.com/linux/gitkraken-amd64.deb"></iframe>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+				<div class="post-tags">
+					</div>
+			</div>
+
+	<section id="comments" class="comments-area">
+
+	
+
+
+</section>
+</main>
+
+			<div data-elementor-type="footer" data-elementor-id="5898" class="elementor elementor-5898 elementor-location-footer">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-8751f3e embed-hidden elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8751f3e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-56c5f88" data-id="56c5f88" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-29046e0 elementor-widget elementor-widget-image" data-id="29046e0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="188" height="188" src="https://www.gitkraken.com/wp-content/uploads/2021/12/gitkraken-icon-stencil-color.svg" class="attachment-thumbnail size-thumbnail wp-image-11325" alt="" loading="lazy" />															</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-fca6d85 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fca6d85" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6b976b8" data-id="6b976b8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9315339 elementor-widget elementor-widget-text-editor" data-id="9315339" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<strong>Products</strong> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-f6c3d25 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="f6c3d25" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a2d6ad8 elementor-widget elementor-widget-text-editor" data-id="a2d6ad8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a style="color: #fff;" href="/pricing">Pricing</a> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-2407e23 elementor-widget elementor-widget-text-editor" data-id="2407e23" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a href="https://help.gitkraken.com/" target="_blank" rel="noopener" style="color: #fff">Help Center  <i class="fa fa-external-link" style="font-size: 8px; vertical-align: 1px;" aria-hidden="true"></i></a>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1873b37 elementor-widget elementor-widget-text-editor" data-id="1873b37" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a href="/git-client" style="color: #fff"><strong>GitKraken Client</strong></a> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-5215597 elementor-widget elementor-widget-text-editor" data-id="5215597" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<ul style="list-style-type: none; margin-left: -25px;">
+ 	<li><a style="color: #fff;" href="https://app.gitkraken.com/login" target="_blank" rel="noopener">Login  <i class="fa fa-external-link" style="font-size: 8px; vertical-align: 1px;" aria-hidden="true"></i></a></li>
+ 	<li><a style="color: #fff;" href="https://help.gitkraken.com/gitkraken-client/gitkraken-client-home/" target="_blank" rel="noopener">Documentation  <i class="fa fa-external-link" style="font-size: 8px; vertical-align: 1px;" aria-hidden="true"></i></a></li>
+ 	<li><a style="color: #fff;" href="https://help.gitkraken.com/gitkraken-client/current/" target="_blank" rel="noopener">Release Notes  <i class="fa fa-external-link" style="font-size: 8px; vertical-align: 1px;" aria-hidden="true"></i></a></li>
+ 	<li><a style="color: #fff;" href="/git-client/roadmap">Roadmap</a></li>
+ 	<li><a style="color: #fff;" href="https://www.gitkraken.com/pdfs/gitkraken-git-gui-cheat-sheet">Cheat Sheet</a></li><li><a style="color: #fff;" href="/pdfs/gitkraken-cli-cheat-sheet">CLI Cheat Sheet</a></li>
+</ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6df869b elementor-widget elementor-widget-text-editor" data-id="6df869b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a href="/gitlens" style="color: #fff"><strong>GitLens</strong></a> 						</div>
+				</div>
+				<div class="elementor-element elementor-element-a0564ad elementor-widget elementor-widget-text-editor" data-id="a0564ad" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<ul style="list-style-type: none; margin-left: -25px;">
+ 	<li><a style="color: #fff;" href="https://help.gitkraken.com/gitlens/gitlens-home/" target="_blank" rel="noopener">Documentation  <i class="fa fa-external-link" style="font-size: 8px; vertical-align: 1px;" aria-hidden="true"></i></a></li>
+</ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-8ff2a65 elementor-widget elementor-widget-text-editor" data-id="8ff2a65" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a href="/git-integration-for-jira" style="color: #fff"><strong>Git Integration for Jira</strong></a>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3dbf499 elementor-widget elementor-widget-text-editor" data-id="3dbf499" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<ul style="list-style-type: none; margin-left: -25px;">
+ 	<li><a style="color: #fff;" href="https://help.gitkraken.com/git-integration-for-jira-cloud/git-integration-for-jira-home-gij-cloud/">Cloud Docs <i class="fa fa-external-link" style="font-size: 8px; vertical-align: 1px;" aria-hidden="true"></i></a></li>
+ 	<li><a style="color: #fff;" href="https://help.gitkraken.com/git-integration-for-jira-data-center/git-integration-for-jira-home-self-manged/"> Data Center/Server Docs <i class="fa fa-external-link" style="font-size: 8px; vertical-align: 1px;" aria-hidden="true"></i></a></li>
+ 	<li><a style="color: #fff;" href="/git-integration-for-jira/security-and-trust">Security &amp; Trust</a></li>
+</ul>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d97af8b" data-id="d97af8b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6d79b1c elementor-widget elementor-widget-text-editor" data-id="6d79b1c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<strong>Community</strong>						</div>
+				</div>
+				<div class="elementor-element elementor-element-8bd2867 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="8bd2867" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6534ff0 elementor-widget elementor-widget-text-editor" data-id="6534ff0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="/learn/git">Learn Git Library</a><br /><a href="/pdfs/git-basics-cheat-sheet">Git Commands Cheat Sheet</a><br /><a href="/blog">Git Blog</a><br /><a href="https://www.gitkraken.com/labs">GitKraken Labs</a><br /><a href="/gitkon/2022-conference">Git Conference</a><br /><a href="/ambassador">Ambassador Program</a><br /><a href="/newsletter">Newsletter</a><br /><a href="https://www.gitkraken.com/join-slack-community" target="_blank" rel="noopener">Slack Community  <i class="fa fa-external-link" style="font-size: 8px; vertical-align: 1px;" aria-hidden="true"></i></a><br /><a href="/student-resources">GitKraken for Students</a><br /><a href="/github-campus-program">GitKraken for Schools</a><br /><a href="/store">Store</a><br /><a href="/keif-gallery">Keif Gallery</a><br /><a href="/referrals">Referral Program</a></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a8f3df8" data-id="a8f3df8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-62b1870 elementor-widget elementor-widget-text-editor" data-id="62b1870" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<strong>Company</strong>						</div>
+				</div>
+				<div class="elementor-element elementor-element-9180dab elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9180dab" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-45d4576 elementor-widget elementor-widget-text-editor" data-id="45d4576" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong><a href="/contact">Contact Us</a><br /><a href="/about">About Us</a><br /><a href="/careers">Careers</a><br /><a href="/sample-customers">Customers</a><br /></strong><strong><a href="/media">Media</a><br /><a href="/media/news">News</a><br /></strong><strong><a href="/media/awards">Awards</a><br /><a href="/media/events">Events</a><br /><a href="/media/press">Press Releases</a><br /><a href="https://www.gitkraken.com/media/press-releases#logos">Logos</a><br /><a href="/privacy">Privacy</a></strong></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-57d1818 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="57d1818" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-c59119b" href="https://twitter.com/gitkraken" target="_blank">
+						<span class="elementor-screen-only"></span>
+						<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1227" viewBox="0 0 1200 1227" fill="none"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-slack elementor-repeater-item-60edbf6" href="https://www.gitkraken.com/join-slack-community" target="_blank">
+						<span class="elementor-screen-only">Slack</span>
+						<i class="fab fa-slack"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-9b26fe2" href="https://www.youtube.com/gitkraken" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-10ecf56" href="https://www.linkedin.com/company/gitkraken" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-4f72abd" href="https://facebook.com/gitkraken" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-04245d2 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="04245d2" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-60ae5ff elementor-widget elementor-widget-text-editor" data-id="60ae5ff" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>© 2023 Axosoft, LLC DBA GitKraken</strong></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+		
+<script>
+	jQuery(function($) {
+		var CURRENCY_SYMBOL_KEY = 'currencySymbol';
+		
+		function updateCurrencySymbols(symbol) {
+			$('.currency-symbol').text(symbol);
+			window.sessionStorage.setItem(CURRENCY_SYMBOL_KEY, symbol);
+		}
+		
+		$(document).ready(function() {
+			if ($('.currency-symbol').length === 0) {
+				return;
+			}
+			
+			var cachedSymbol = window.sessionStorage.getItem(CURRENCY_SYMBOL_KEY);
+			
+			if (cachedSymbol) {
+				updateCurrencySymbols(cachedSymbol);
+			} else {
+				$.get('https://api.gitkraken.com/currency')
+					.then(
+						function(data) {
+							updateCurrencySymbols(data.currency.symbol || '$');
+						},
+						function () {
+							// Something went wrong, fallback to USD
+							updateCurrencySymbols('$');
+						}
+					);
+			}
+		});
+
+	
+
+		function getQueryString() {
+			var fullString = document.URL.split('#')[0].split('?')[1];
+			if( fullString != undefined ) {
+			var stringObj = {};
+			if( fullString.indexOf('&') !== -1 ){
+				var querySplit = fullString.split('&');
+					for( var qspi = 0; qspi < querySplit.length; qspi++ ) {
+						var subSplit = querySplit[qspi].split('=');
+						stringObj[subSplit[0]] = subSplit[1];
+					}
+				} else {
+					var subSplit = fullString.split('=');
+					stringObj[subSplit[0]] = subSplit[1];
+				}
+					return stringObj;
+				}
+			return false;
+		}
+
+		function detectOS() {
+			var clientStrings = [
+				{s:'Windows32',r:[
+					'Windows',
+					'Win32'
+				]},
+				{s:'Windows64',r:[
+					'WOW64',
+					'Win64'
+				]},
+				{s:'MacOS', r:[
+					'MacPPC',
+					'MacIntel',
+					'Mac_PowerPC',
+					'Macintosh'
+				]},
+				{s:'Linux', r:[
+					'X11',
+					'Linux'
+				]}
+			];
+
+			var userAgent = navigator.userAgent;
+
+			var currentOS = 'none';
+			for(var id in clientStrings) {
+				var cs = clientStrings[id];
+				for( var strId in cs.r ) {
+					var currentString = cs.r[strId];
+					if( userAgent.indexOf(currentString) != -1 ) {
+						currentOS = cs.s;
+						break;
+					}
+				}
+			}
+
+			var qs = getQueryString();
+			if(qs.os) {
+				return qs.os;
+			}
+
+			return currentOS;
+		}
+
+		var dlLink = '/download';
+		var dlContainer = $('.dl-container');
+		var dlContainerCli = $('.dl-container-cli');
+		var mainBtn = $('.dl-container .button.all a');
+
+
+		function doButtons(version){
+
+			var currentOS = detectOS();
+			var showDLsLink = false;
+			var btnClass = 'all';
+			var btnSub, faClass, href;
+			if( currentOS ) {
+
+				switch(currentOS){
+					case 'Windows32':
+						btnSub = 'GitKraken v9 - For (32-bit) Windows 8+';
+						faClass = 'windows';
+						href = '/download/windows';
+						showDLsLink = true;
+					break;
+
+					case 'Windows64':
+						btnSub = 'GitKraken v9 - For (64-bit) Windows 8+';
+						faClass = 'windows';
+						href = '/download/windows64';
+						showDLsLink = true;
+					break;
+
+					case 'MacOS':
+						btnSub = 'GitKraken v9 - For Mac OS 10.10+';
+						faClass = 'apple';
+						href = '/download/mac';
+						showDLsLink = true;
+					break;
+
+					case 'Linux':
+						btnSub = 'GitKraken v9 - For Ubuntu LTS 16.04+, Debian 9+';
+						faClass = 'linux';
+						showDLsLink = true;
+					break;
+
+					default:
+						btnSub = 'GitKraken v9 - Windows / Mac / Linux';
+						href = '/download';
+				}
+
+				$(dlContainerCli).prepend("<a class='button os button--basic'><span class='maintext'><span class='os-icon'></span>Download GitKraken Client Free</span></a><div class='secondary-cta'><a class='all-downloads' href='/download'>See All Platforms</a></div>");
+
+				$(dlContainer).prepend("<a class='button os button--basic'><span class='maintext'><span class='os-icon'></span>Download GitKraken Client Free</span></a><div class='secondary-cta'><a class='all-downloads' href='/download'>Other Platforms</a></div>");
+
+				// <a class="button os button--basic"><span class="maintext">Free Download</span><span class="button__subtext"></span></a><div class="secondary-cta"><a class="all-downloads" href="/download">Current version & all platforms</a></div>
+				var mainBtn = $('.button.os');
+				var mainBtnClasses = $(mainBtn).attr('class');
+
+				if( currentOS == 'Linux' ){
+
+					$(mainBtn).addClass('multi-trigger');
+					$(mainBtn).attr('id', 'linux-trigger');
+					$(mainBtn).attr('href', null);
+					$(mainBtn).on('click', function(){
+						revealLinuxPackages();
+					});
+
+				} else if ( currentOS == 'MacOS' ){
+
+					$(mainBtn).addClass('multi-trigger');
+					$(mainBtn).attr('id', 'mac-trigger');
+					$(mainBtn).attr('href', null);
+					$(mainBtn).on('click', function(){
+						revealMacPackages();
+					});
+
+				} else {
+					$(mainBtn).attr('href', href);
+					$(mainBtn).attr('id', 'windows-trigger');
+					$(mainBtn).addClass('direct-dl-link').attr('data-os', currentOS);
+				}
+
+				var mainBtnIcon = $('.button.os .os-icon');
+				// var mainBtnMain = $('.button.os .maintext');
+				// var oldMainContent = $(mainBtnMain).html();
+				if(faClass == undefined) {
+					$(mainBtnIcon).html('');
+				} else {
+					$(mainBtnIcon).html('<i class="fa mrs os fa-' + faClass + '"></i>' );
+				}
+				// $(mainBtnSub).html(btnSub);
+			}
+
+
+			if(showDLsLink === false) {
+				$('.all-downloads').remove();
+			} else {
+				$(dlContainer).addClass('os-context');
+			}
+
+		}
+
+		function revealLinuxPackages(callback) {
+			var hrefDeb = '/download/linux-deb';
+			var hrefGzip = '/download/linux-gzip';
+			var hrefSnap = 'https://snapcraft.io/gitkraken';
+			var hrefRpm = '/download/linux-rpm';
+			var btn1 = document.createElement('a');
+			var btn2 = document.createElement('a');
+			var btn3 = document.createElement('a');
+			var btn4 = document.createElement('a');
+			$(btn1).attr('class', 'button--basic button multi direct-dl-link mls mrs mts button--linux');
+			$(btn2).attr('class', 'button--basic button multi direct-dl-link mls mrs mts  button--linux');
+			$(btn3).attr('class', 'button--basic button multi direct-dl-link mls mrs mts snap-download button--linux');
+			$(btn4).attr('class', 'button--basic button multi direct-dl-link mls mrs mts  button--linux');
+			$(btn1).attr('href', hrefDeb);
+			$(btn2).attr('href', hrefGzip);
+			$(btn3).attr('href', hrefSnap);
+			$(btn3).attr('target', '_blank');
+			$(btn4).attr('href', hrefRpm);
+			$(btn1).attr('data-os', 'Linux Deb').html('<span class="maintext">Ubuntu 16.04+ LTS (.deb)</span>');
+			$(btn2).attr('data-os', 'Linux .tar.gz').html('<span class="maintext">Ubuntu 16.04+ LTS (tar.gz)</span>');
+			$(btn3).attr('data-os', 'Linux Snap').html('<span class="maintext">Snap Store</span>');
+			$(btn4).attr('data-os', 'Linux RPM').html('<span class="maintext">RHEL 7+, CentOS 7+, Fedora 31+ (.rpm)</span>');
+			$(dlContainer).prepend(btn3).prepend(btn4).prepend(btn2).prepend(btn1);
+			$('.button.os').remove();
+			if(callback) {
+				callback();
+			}
+
+
+		}
+
+		function revealMacPackages(callback) {
+			var hrefIntel = '/download/mac';
+			var hrefAppleSilicon = '/download/mac-apple-silicon';
+			var btn1 = document.createElement('a');
+			var btn2 = document.createElement('a');
+			$(btn1).attr('class', 'button--basic button multi direct-dl-link mls mrs mts button--mac');
+			$(btn2).attr('class', 'button--basic button multi direct-dl-link mls mrs mts  button--mac');
+			$(btn1).attr('href', hrefIntel);
+			$(btn2).attr('href', hrefAppleSilicon);
+			$(btn1).attr('data-os', 'Mac Intel').html('<i class="fa mrs os fa-apple"></i><span class="maintext"> Mac (Intel)</span>');
+			$(btn2).attr('data-os', 'Mac Apple Silicon').html('<i class="fa mrs os fa-apple"></i><span class="maintext"> Mac (Apple Silicon)</span>');
+			$(dlContainer).prepend(btn2).prepend(btn1);
+			$('.button.os').remove();
+			if(callback) {
+				callback();
+			}
+
+
+		}
+
+		function getLatestVersion(callback) {
+			var version = {
+				date: 'Friday, September 15, 2023',
+				name: '9.8.2'
+			}
+			if(callback){
+				callback(version);
+			}
+		}
+
+		getLatestVersion(doButtons);
+	});
+	
+</script>
+
+<script>
+	function copyIt(text) {
+  		var input = document.createElement('input');
+  		input.setAttribute('value', text);
+  		document.body.appendChild(input);
+  		input.select();
+  		var result = document.execCommand('copy');
+  		document.body.removeChild(input);
+  		return result;
+	}
+
+
+	document.querySelectorAll('a.aal_anchor[href]').forEach(function (anchor) {
+  		anchor.addEventListener("click", function (){
+    		var page = window.location.href.replace(/#.*$/, '')
+    		copyIt(anchor.href);
+		});
+  	});
+</script>
+		<div data-elementor-type="popup" data-elementor-id="6497" class="elementor elementor-6497 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;none&quot;,&quot;exit_animation&quot;:&quot;none&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.5,&quot;sizes&quot;:[]},&quot;open_selector&quot;:&quot;a[href=\&quot;#install-gitlens\&quot;]&quot;,&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-80eeab7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="80eeab7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e52235" data-id="4e52235" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-71c9897 elementor-widget elementor-widget-text-editor" data-id="71c9897" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<strong>Visual Studio Code is required to install GitLens.</strong>
+<br><br>
+Don&#8217;t have Visual Studio Code? <a href="https://code.visualstudio.com/download" target="_blank" rel="noopener">Get it now</a>.						</div>
+				</div>
+				<div class="elementor-element elementor-element-7d05a4a elementor-widget elementor-widget-html" data-id="7d05a4a" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="gitlens-button-container">
+<a class="button button--basic" href="vscode:extension/eamodio.gitlens">Continue to install GitLens</a>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+		<link rel='stylesheet' id='elementor-post-11612-css' href='https://www.gitkraken.com/wp-content/uploads/elementor/css/post-11612.css?ver=1693014252' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-11613-css' href='https://www.gitkraken.com/wp-content/uploads/elementor/css/post-11613.css?ver=1693014255' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-11614-css' href='https://www.gitkraken.com/wp-content/uploads/elementor/css/post-11614.css?ver=1693014264' type='text/css' media='all' />
+<script type='text/javascript' id='copy-the-code-js-extra'>
+/* <![CDATA[ */
+var copyTheCode = {"trim_lines":"","remove_spaces":"1","copy_content_as":"","previewMarkup":"<h2>Hello World<\/h2>","buttonMarkup":"<button class=\"copy-the-code-button\" title=\"\"><\/button>","buttonSvg":"<svg viewBox=\"-21 0 512 512\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><path d=\"m186.667969 416c-49.984375 0-90.667969-40.683594-90.667969-90.667969v-218.664062h-37.332031c-32.363281 0-58.667969 26.300781-58.667969 58.664062v288c0 32.363281 26.304688 58.667969 58.667969 58.667969h266.664062c32.363281 0 58.667969-26.304688 58.667969-58.667969v-37.332031zm0 0\"><\/path><path d=\"m469.332031 58.667969c0-32.40625-26.261719-58.667969-58.664062-58.667969h-224c-32.40625 0-58.667969 26.261719-58.667969 58.667969v266.664062c0 32.40625 26.261719 58.667969 58.667969 58.667969h224c32.402343 0 58.664062-26.261719 58.664062-58.667969zm0 0\"><\/path><\/svg>","selectors":[{"selector":"pre","style":"button","button_text":"Copy","button_title":"Copy to Clipboard","button_copy_text":"Copied!","button_position":"inside","copy_format":"default"}],"selector":"pre","settings":{"selector":"pre","button-text":"Copy","button-title":"Copy to Clipboard","button-copy-text":"Copied!","button-position":"inside","copy-format":"default"},"string":{"title":"Copy to Clipboard","copy":"Copy","copied":"Copied!"},"image-url":"https:\/\/www.gitkraken.com\/wp-content\/plugins\/copy-the-code\/\/assets\/images\/copy-1.svg","redirect_url":""};
+/* ]]> */
+</script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-content/plugins/copy-the-code/assets/js/copy-the-code.js?ver=2.6.5' id='copy-the-code-js'></script>
+<script type='text/javascript' id='a6027c37e-js-extra'>
+/* <![CDATA[ */
+var localize = {"ajaxurl":"https:\/\/www.gitkraken.com\/wp-admin\/admin-ajax.php","nonce":"9a75c33321","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"page_permalink":"https:\/\/www.gitkraken.com\/download\/linux-deb"};
+/* ]]> */
+</script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-content/uploads/essential-addons-elementor/a6027c37e.min.js?ver=1695555172' id='a6027c37e-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2' id='jquery-ui-slider-js'></script>
+<script   type='text/javascript' src='//www.gitkraken.com/wp-content/uploads/theplus-addons/theplus-post-1529.min.js?ver=1691794961' id='theplus-front-js-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2' id='jquery-ui-draggable-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2' id='jquery-touch-punch-js'></script>
+<script id="rocket-browser-checker-js-after" type="text/javascript">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-extra'>
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/pdfs\/gitkraken-vs-cli|\/cli-vs-kraken|\/download\/mac-apple-silicon|\/download\/windows64|\/download\/windows|\/download\/mac|\/download\/linux-rpm|\/download\/linux-gzip|\/download\/linux-deb|\/download\/sa-linux-deb|\/download\/sa-linux-gzip|\/download\/sa-linux-rpm|\/download\/sa-mac|\/download\/sa-windows|\/download\/sa-windows64|\/download\/sa-mac-apple-silicon|\/git-client\/account-site-gitkraken-client-pricing|\/2023-plans|\/2023-plans-team|\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/wp-admin|\/logout|\/get-crackin\/","usesTrailingSlash":"","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"https:\/\/www.gitkraken.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script id="rocket-preload-links-js-after" type="text/javascript">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.12.3' id='elementor-pro-webpack-runtime-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.12.2' id='elementor-webpack-runtime-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.12.2' id='elementor-frontend-modules-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1' id='wp-hooks-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef' id='wp-i18n-js'></script>
+<script   id="wp-i18n-js-after" type="text/javascript">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script   id="elementor-pro-frontend-js-before" type="text/javascript">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.gitkraken.com\/wp-admin\/admin-ajax.php","nonce":"d418496c90","urls":{"assets":"https:\/\/www.gitkraken.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.gitkraken.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.gitkraken.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.12.3' id='elementor-pro-frontend-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script   id="elementor-frontend-js-before" type="text/javascript">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.12.2","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"theme_builder_v2":true,"landing-pages":true,"page-transitions":true,"notes":true,"loop":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/www.gitkraken.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1529,"title":"Thank%20You%20for%20Downloading%20GitKraken%C2%A0","excerpt":"","featuredImage":"https:\/\/www.gitkraken.com\/wp-content\/uploads\/2021\/11\/GitKrakenClient-Hero-2048x1024px-v1-1024x512.png"}};
+</script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.12.2' id='elementor-frontend-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.12.3' id='pro-elements-handlers-js'></script>
+<script   type='text/javascript' src='https://www.gitkraken.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.12.3' id='e-sticky-js'></script>
+
+</body>
+</html>
