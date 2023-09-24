@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62893b05c99bd2204375cae5bccf4839e29eeb67edf60131dc142c9ec9e1c5be
-size 452
+A  repository for debian based  linux packages:
+
+- [repository](https://github.com/nepvibes/external-apps)
+- [my github home](https://nepvibes.github.io)
+
+
+# Usage
+
+```bash
+sudo curl -SsL -o /etc/apt/trusted.gpg.d/nepvibes..gpg https://nepvibes.github.io/external-apps/debian/KEY.gpg
+sudo curl -SsL -o /etc/apt/sources.list.d/nepvibe.list https://nepvibes.github.io/external-apps/debian/various.list
+sudo apt update
+sudo apt install  <app-name>
+```
